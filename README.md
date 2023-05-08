@@ -6,3 +6,5 @@ The docker environment for building Cortex-M projects with following tools:
 - Cppcheck (static code analyzer)
 - gcc/g++ (for building unittests)
 - ruby (for running unity scripts)
+- git (for cloning and getting git revision info)
+- wine32 (for running PC-Lint)
